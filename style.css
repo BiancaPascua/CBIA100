@@ -1,0 +1,57 @@
+
+			header{text-align:center;
+				color:white;
+				font-family:Georgian;
+				font-size:35px;
+				background-color:#2b1e13;
+				border:2px solid white;
+				
+			}
+			nav{text-align:center;
+				color:white;
+				font-family:Georgian;
+				font-size:20px;
+			}
+			
+			h2{text-align:center;
+				color:white;
+				font-family:Georgian;
+				font-size:25px;
+			}
+			
+			p{text-align:right;
+				color:white;
+				font-family:Georgian;
+				font-size:25px;
+				line-height:1.7;
+				margin-right:40px;
+				margin-bottom:30px;
+			}
+			
+			#tmenu{text-align:center;
+				color:white;
+				font-family:Georgian;
+				font-size:50px;
+				margin-top:50px;
+			}
+			
+			#pica{
+			border:2px solid white;
+			text-align:center;
+			}
+			
+			#titlea{
+			color:white;
+			font-family:Georgian;
+			margin:30px;
+			font-size:40px;
+			}
+			
+			
+			#desca{
+			color:white;
+			font-family:Georgian;
+			margin:30px;
+			font-size:20px;
+			}
+		
