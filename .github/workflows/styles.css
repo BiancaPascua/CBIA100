@@ -1,0 +1,32 @@
+body{
+  padding: 40px;
+  font-family:Cambria;
+  background-color:#f6fbff
+}
+h1 {
+	color: #6c9dd0;
+  text-decoration:underline;
+  text-align:center;
+}
+
+h2 {
+  color: #85b9e4;
+  background-color:white;
+}
+
+p,li,header {
+  color: #0f3a5e;
+}
+
+header {
+  text-align:center;
+}
+
+li {
+  line-height:1.5;
+}
+
+footer {
+  background-color:#ffffff;
+  padding:20px;
+}
